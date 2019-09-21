@@ -4,3 +4,6 @@
 1. ### There is a great desire for self-development. I want that the brain always work to the limit. I always try to learn something new, otherwise I get bored.
 1. ### Pascal ABC, HTML
 1. ### -  
+1. ### - 
+1. ### Higher Education (Power Engineer), English Courses (Streamline)
+1. ### A-2, English Courses (Streamline)
