@@ -1,0 +1,15 @@
+.all {
+    width: 1024px;
+    margin: 0 auto;
+    }
+figcaption {
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+}
+figure img {
+    width: 50%;
+    height: 50%;
+}
+    
